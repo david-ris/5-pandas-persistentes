@@ -4,8 +4,6 @@
 
 <p><b>Ubicación:</b> Bogotá,Colombia</p>
 
-<p> UN perfil breve </p>
-
 <img src="David herrera/david Herrera.jpg" alt="foto de David Herrera" width="800" height="600" londing="lazy">
  
 <p>Perfil:
