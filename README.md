@@ -13,18 +13,17 @@ Hola a todos, me llamo David, trabajo en una empresa de cajero en un parqueader 
  
 <p><b>Rol:</b> Me gustaria asumir roles como Diseñador o Artista</p> 
 
-<h1>Juan Rubiano</h1>
+# Juan Rubiano
 
-<p>El rol de la industria que ha escogido.</p>
+El rol de la industria que ha escogido.
 
-<p><b>Ubicación:</b> Bogotá, Colombia</p>
+**Ubicación:** Bogotá, Colombia
 
-<img src="./IMG_5547.jpeg" alt="foto de Juan Rubiano" width="800" height="600" loading="lazy">
+![foto de Juan Rubiano](<Juan Rubiano/IMG_5547.jpeg>)
 
-<p>Perfil:
+**Perfil:**  
 Hola a todos, me llamo Juan, trabajo como supervisor en el sector BPO de moderación de contenido, estudio Ingeniería Multimedia y mi comida favorita es la lasaña.
-</p>
 
-<img src="./lasana-en-salsa-bechamel.webp" alt="comida favorita: lasaña" width="800" height="600" loading="lazy">
+![comida favorita: lasaña](<Juan Rubiano/lasana-en-salsa-bechamel.webp>)
 
-<p><b>Rol:</b> Me gusta asumir roles como editor de videos y diseñador.</p>
+**Rol:** Me gusta asumir roles como editor de videos y diseñador.
