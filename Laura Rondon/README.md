@@ -1,6 +1,6 @@
 
 
-![Foto Personal](Laura%20Rondon/Laura.jpeg)
+![Foto Personal](Laura_Rondon/Laura.jpeg)
 
 **Nombre:** Laura Rondón  
 
@@ -11,3 +11,4 @@
 **Perfil breve:**  
 
 Soy estudiante de ingeniería multimedia, me gusta mucho las series, la animación y el diseño en general
+
