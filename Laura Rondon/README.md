@@ -1,6 +1,6 @@
 
 
-![Foto Personal](Laura Rondon/Laura.jpeg)
+![Foto Personal](Laura%20Rondon/Laura.jpeg)
 
 **Nombre:** Laura Rondón  
 
@@ -9,4 +9,5 @@
 **Ubicación:** Nueva York, EE. UU.  
 
 **Perfil breve:**  
+
 Soy estudiante de ingeniería multimedia, me gusta mucho las series, la animación y el diseño en general
