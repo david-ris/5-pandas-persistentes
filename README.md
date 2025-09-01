@@ -63,10 +63,10 @@ Hola, equipo, me llamo Angie Tatiana Yara, trabajo como diseñadora gráfica y e
 
 <p><b>Ubicación:</b> Bogotá, Colombia</p>
 
-<img src="Sandra%20Pinzon/PXL_20220917_113741386.jpg" alt="foto de Sandra Pinzon" width="800" height="600" loading="lazy">
+<img src="Sandra%20Pinzon/PXL_20220917_113741386.jpg" alt="foto de Sandra Pinzon" width="300" loading="lazy">
 
 <p>
 Perfil:  
 Mi nombre es Snadra Pinzón, vivo en Bogotá, pero viví 20 años en Cartagena, Me gustan mucho las mascotas, llevo 12 años de casada y amo la comida de mar</p>
 
-<img src="Sandra%20Pinzon/unnamed.jpg" alt="Comida Favorita" width="800" height="600" loading="lazy">
+<img src="Sandra%20Pinzon/unnamed.jpg" alt="Comida Favorita" width="300" loading="lazy">
