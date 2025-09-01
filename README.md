@@ -43,6 +43,4 @@ El rol de la industria que ha escogido.
 **Perfil:**  
 Hola a todos, me llamo Laura, estudio Ingeniería Multimedia y me gusta la programación, el diseño y los videojuegos.  
 
-<img src="Laura%20Rondon/comida-favorita.png" alt="comida favorita" width="300">
-
 **Rol:** Me gustaría asumir roles como desarrolladora o diseñadora.
