@@ -37,11 +37,11 @@ Hola a todos, me llamo Juan, trabajo como supervisor en el sector BPO de moderac
 
 <p><b>Ubicación:</b> Bogotá, Colombia</p>
 
-<img src="Angie Vara/Angie Yara.jpg" alt="foto de Angie Vara" width="300">
+<img src="IMGANGIE.jpg" alt="foto de Angie Vara" width="300">
 
 <p>
 Perfil:  
 Hola, equipo, me llamo Angie Tatiana Yara, trabajo como diseñadora gráfica y editora de videos para una agencia de publicidad, estudio ingeniería multimedia para tener mayores conocimientos y mi comida favorita es la carne asada.</p>
-<img src="Angie Vara/Comida_Favorita.jpg" alt="comida favorita de Angie Vara" width="300">
+<img src="Comida_Favorita.jpg" alt="comida favorita de Angie Vara" width="300">
 <p><b>Rol:</b> Me gustaría asumir roles como Diseñador, programador</p>
 
