@@ -41,6 +41,10 @@ El rol de la industria que ha escogido.
 **Perfil:**  
 Hola a todos, me llamo Laura, estudio Ingeniería Multimedia y me gusta la programación, el diseño y los videojuegos.
 
+Mi comida favorita son los postres pero en especial el helado
+
+<img src="helado.jpg" alt="foto de helado" width="800" height="600">
+
 **Rol:** Me gustaría asumir roles como desarrolladora o diseñadora.
 
 <h1>Angie Tatiana Yara Daza</h1>
