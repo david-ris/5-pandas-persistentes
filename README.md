@@ -43,7 +43,7 @@ Hola a todos, me llamo Laura, estudio Ingeniería Multimedia y me gusta la progr
 
 Mi comida favorita son los postres pero en especial el helado
 
-<img src="helado.jpg" alt="foto de helado" width="800" height="600">
+<img src="Laura%20Rondon/helado.jpg" alt="foto de helado" width="800" height="600">
 
 **Rol:** Me gustaría asumir roles como desarrolladora o diseñadora.
 
