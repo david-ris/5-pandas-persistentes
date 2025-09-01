@@ -12,6 +12,8 @@
 
 Soy estudiante de ingeniería multimedia, me gusta mucho las series, la animación y el diseño en general
 
+<img src="helado.jpg" alt="foto de helado" width="800" height="600">
 
 Mi comida favorita son los postres, en especial el helado
+
 
