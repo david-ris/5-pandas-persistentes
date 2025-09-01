@@ -13,4 +13,5 @@
 Soy estudiante de ingeniería multimedia, me gusta mucho las series, la animación y el diseño en general
 
 
+Mi comida favorita son los postres, en especial el helado
 
