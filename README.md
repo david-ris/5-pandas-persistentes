@@ -31,17 +31,31 @@ Hola a todos, me llamo Juan, trabajo como supervisor en el sector BPO de moderac
 
 **Rol:** Me gusta asumir roles como editor de videos y diseñador.
 
+# Laura Rondon
+
+El rol de la industria que ha escogido.
+
+**Ubicación:** Bogotá, Colombia
+
+<img src="Laura%20Rondon/Laura.jpeg" alt="foto de Laura Rondon" width="300">
+
+**Perfil:**  
+Hola a todos, me llamo Laura, estudio Ingeniería Multimedia y me gusta la programación, el diseño y los videojuegos.  
+
+**Rol:** Me gustaría asumir roles como desarrolladora o diseñadora.
+
+
 <h1>Angie Tatiana Yara Daza</h1>
 
 <p>El rol de la industria que ha escogido.</p>
 
 <p><b>Ubicación:</b> Bogotá, Colombia</p>
 
-<img src="IMGANGIE.jpg" alt="foto de Angie Vara" width="300">
+<img src="Angie%20Yara/IMGANGIE.jpg" alt="foto de Angie Vara" width="300">
 
 <p>
 Perfil:  
 Hola, equipo, me llamo Angie Tatiana Yara, trabajo como diseñadora gráfica y editora de videos para una agencia de publicidad, estudio ingeniería multimedia para tener mayores conocimientos y mi comida favorita es la carne asada.</p>
-<img src="Comida_Favorita.jpg" alt="comida favorita de Angie Vara" width="300">
+<img src="Angie%20Yara/Comida_Favorita.jpg" alt="comida favorita de Angie Vara" width="300">
 <p><b>Rol:</b> Me gustaría asumir roles como Diseñador, programador</p>
 
