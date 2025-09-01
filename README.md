@@ -43,3 +43,19 @@ El rol de la industria que ha escogido.
 Hola a todos, me llamo Laura, estudio Ingeniería Multimedia y me gusta la programación, el diseño y los videojuegos.  
 
 **Rol:** Me gustaría asumir roles como desarrolladora o diseñadora.
+
+
+<h1>Angie Tatiana Yara Daza</h1>
+
+<p>El rol de la industria que ha escogido.</p>
+
+<p><b>Ubicación:</b> Bogotá, Colombia</p>
+
+<img src="Angie%20Yara/IMGANGIE.jpg" alt="foto de Angie Vara" width="300">
+
+<p>
+Perfil:  
+Hola, equipo, me llamo Angie Tatiana Yara, trabajo como diseñadora gráfica y editora de videos para una agencia de publicidad, estudio ingeniería multimedia para tener mayores conocimientos y mi comida favorita es la carne asada.</p>
+<img src="Angie%20Yara/Comida_Favorita.jpg" alt="comida favorita de Angie Vara" width="300">
+<p><b>Rol:</b> Me gustaría asumir roles como Diseñador, programador</p>
+
