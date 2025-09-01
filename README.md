@@ -63,7 +63,7 @@ Hola, equipo, me llamo Angie Tatiana Yara, trabajo como diseñadora gráfica y e
 
 <p><b>Ubicación:</b> Bogotá, Colombia</p>
 
-<img src="Sandra%20Pinzon/PXL_20220917_113741386.jpgPXL_20220917_113741386.jpg" alt="foto de Sandra Pinzon" width="800" height="600" loading="lazy">
+<img src="Sandra%20Pinzon/PXL_20220917_113741386.jpg" alt="foto de Sandra Pinzon" width="800" height="600" loading="lazy">
 
 <p>
 Perfil:  
