@@ -30,3 +30,19 @@ Hola a todos, me llamo Juan, trabajo como supervisor en el sector BPO de moderac
 <img src="Juan%20Rubiano/lasana-en-salsa-bechamel.webp" alt="comida favorita: lasaña" width="300">
 
 **Rol:** Me gusta asumir roles como editor de videos y diseñador.
+
+
+# Laura Rondon
+
+El rol de la industria que ha escogido.
+
+**Ubicación:** Bogotá, Colombia
+
+<img src="Laura%20Rondon/Laura.jpeg" alt="foto de Laura Rondon" width="300">
+
+**Perfil:**  
+Hola a todos, me llamo Laura, estudio Ingeniería Multimedia y me gusta la programación, el diseño y los videojuegos.  
+
+<img src="Laura%20Rondon/comida-favorita.png" alt="comida favorita" width="300">
+
+**Rol:** Me gustaría asumir roles como desarrolladora o diseñadora.
