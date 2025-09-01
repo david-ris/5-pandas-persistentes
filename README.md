@@ -31,7 +31,6 @@ Hola a todos, me llamo Juan, trabajo como supervisor en el sector BPO de moderac
 
 **Rol:** Me gusta asumir roles como editor de videos y diseñador.
 
-
 # Laura Rondon
 
 El rol de la industria que ha escogido.
